@@ -1,0 +1,115 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="AFzB,eSz].i!2i!uThq@">spielAktiv</variable><variable id="Q2qPA{Yf0C)$#=5q=c3@">korb</variable><variable id="{Li*90/LHr8X`W0uFxsE">Ball</variable></variables><block type="function_definition" id="XXlCw630M75ge|BPBiEt" x="2490" y="-4867"><mutation name="starteSpiel" functionid="04_2`Hj*Z(wf,l7z4H~z"></mutation><field name="function_name">starteSpiel</field><statement name="STACK"><block type="controls_repeat_ext" id="G%a7nkc2:.a._FJz@FVK"><value name="TIMES"><shadow type="math_whole_number" id="iG)d[@.[/^]_bbgFemjV"><field name="NUM">7</field></shadow></value><statement name="DO"><block type="device_show_leds" id="G)y#CWUVL6VmgE{nh-#7"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . . . 
+        . # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="te]40%^r].mLn*pK1f3r"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="UFxQqxKpO:c0f8/imExB"><field name="LEDS">`
+        . . . . . 
+        . # # . . 
+        . # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="!:[D-EDYxDAm[L3X~OTI"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="hmvEJ9*aMJi,.}O6nM+."><field name="LEDS">`
+        . . . . . 
+        . . # # . 
+        . . . # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="4EG*|2ye+=s![#9d^1DG"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        . . . # . 
+        . . . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="F4/;j1#u%.C[`X]!5Yqr"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . # . 
+        . . # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="/WceQ^7V#H`iFvd]~AG;"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="device_show_leds" id="S63XT5]lOF[%XLgcq8e["><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . . . 
+        . # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="l0AkZbY~iyzlct^gh4a*"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . # . . . 
+        . # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="F!,pKT;tX.5/OwJ~UxEE"><field name="LEDS">`
+        . . . . . 
+        . # # . . 
+        . # . . . 
+        . # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="$p~QwEB4)+Fn=Cu!_7*I"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . . . 
+        . # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Ye9SK[I)Vd{uJH/L#RAg"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="u/TiDHmBt|0+srqxJN,n"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="+5a9H:]*dAea:ox_y%*p"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="controls_repeat_ext" id="_SLr}o~8{G*beq(KzMd-"><value name="TIMES"><shadow type="math_whole_number" id="_^sz`p[xg4a0,QlF%MV7"><field name="NUM">5</field></shadow></value><statement name="DO"><block type="device_show_leds" id="FTw8D{gC_ituHM`ZXOno"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="#En5N2}qNa7/x9EhC^^8"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="hQ@oDYrF$FG9WBNqP!Pm"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="O34F0T|U++R*Sb}AYVcD"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></statement><next><block type="variables_set" id="eIFP59:!b6Mn*04^?K~`"><field name="VAR" id="Q2qPA{Yf0C)$#=5q=c3@">korb</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="game_create_sprite" id="qb{Yr(Ca3V#{^ZN|h4ar"><value name="x"><shadow type="math_number" id="V#k;XYQ$B7s8L3Y^4|(e"><field name="NUM">2</field></shadow></value><value name="y"><shadow type="math_number" id="l=(x%iTF2OJ@#h6(%!U("><field name="NUM">4</field></shadow></value></block></value><next><block type="game_set_life" id="95n#loB;t14PckerYOw@"><value name="value"><shadow type="math_number" id="r]/.~3TjikdAJRYj@8/u"><field name="NUM">3</field></shadow></value><next><block type="game_set_score" id=")vg6rm]ccys-)?G*H(d8"><value name="points"><shadow type="math_number" id="^yTOvs!jqc{k`=b4aEwL"><field name="NUM">0</field></shadow></value><next><block type="variables_set" id="Kja*@oYo;fT|YV#uHk}S"><field name="VAR" id="{Li*90/LHr8X`W0uFxsE">Ball</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="game_create_sprite" id="/M5~LmH$fgn$v[2VdqfS"><value name="x"><block type="device_random" id="q8DgXzU^!wEvpG}(dlV#"><value name="min"><shadow type="math_number" id="h:N[TT5Ee9^u*]#^E1mk"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="Xf(E|Y#fJ8-QxZJh3]v3"><field name="NUM">4</field></shadow></value></block></value><value name="y"><shadow type="math_number" id="NjRa+BnQy1-Wnh*Z9K.4"><field name="NUM">0</field></shadow></value></block></value><next><block type="typescript_statement" id=";,srP5.-DXg+B=ul|$od" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="basic.forever(function () {" line1="        if (spielAktiv) {" line2="            Ball.change(LedSpriteProperty.Y, 1)" line3="            basic.pause(200)" line4="            if (Ball.get(LedSpriteProperty.Y) == 4) {" line5="                if (korb.isTouching(Ball)) {" line6="                    game.removeLife(1)" line7="                } else {" line8="                    game.addScore(1)" line9="                }" line10="                Ball.set(LedSpriteProperty.X, randint(0, 4))" line11="                Ball.set(LedSpriteProperty.Y, 0)" line12="            }" line13="        }" line14="    })" numlines="15"></mutation></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="LNPH^!x[gY?GRAZF:*Lg" x="0" y="0"><statement name="HANDLER"><block type="typescript_statement" id="8sZ^#cP}AGEE7{,A_!@k" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="let korb: game.LedSprite = null" numlines="1" declaredvars="korb"></mutation><next><block type="typescript_statement" id="0OC[g#.[=[MZas^#%8-|" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="let Ball: game.LedSprite = null" numlines="1" declaredvars="Ball"></mutation><next><block type="typescript_statement" id="b{T8]z8~9qL{m-]TC)/x" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="let spielAktiv = false" numlines="1" declaredvars="spielAktiv"></mutation></block></next></block></next></block></statement></block><block type="device_button_event" id="oS@fx.JT1@3/2GoM2lwl" x="350" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_if" id=":%NXJhKI(z`z~jF/49d2"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_negate" id="iiobiv^[Jy(kYQG5{UXS"><value name="BOOL"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="variables_get" id="%1lO(q26}2LTD!MEq1?t"><field name="VAR" id="AFzB,eSz].i!2i!uThq@">spielAktiv</field></block></value></block></value><statement name="DO0"><block type="device_print_message" id="-Pn=X=T4}cy2G5ig:Oln"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="text"><shadow type="text" id="?@)Z2e`w`{CmWY}4md9q"><field name="TEXT">Hello World</field></shadow></value></block></statement></block></statement></block><block type="device_button_event" id="WA4ZU#]]c7M;HF9Z,Y@)" x="741" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="variables_set" id="SU);Bj:X5l.^b)WzPDu6"><field name="VAR" id="AFzB,eSz].i!2i!uThq@">spielAktiv</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="logic_boolean" id="/xB9N3V8l1xo=/h)NSPm"><field name="BOOL">TRUE</field></block></value><next><block type="function_call" id="q{z8sOn(293LEHA%_qp)"><mutation name="starteSpiel" functionid="04_2`Hj*Z(wf,l7z4H~z"></mutation><next><block type="device_start_melody" id="ywFohm.]JPO3,nx1UrN-"><field name="options">MelodyOptions.Once</field><value name="melody"><shadow type="device_builtin_melody" id="Hw^]H7cc[GL%6~xz[,Gw"><field name="melody">Melodies.PowerUp</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="Hzt*#[I!QI^R1%i_39GH" x="1292" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="controls_if" id="?m.c#y^3vB8Q|pSUC$]5"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_negate" id="W6fpPuwhgU]-2bUa1G2b"><value name="BOOL"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="variables_get" id="gDi#cOdl@7XJ}/^WbJeP"><field name="VAR" id="AFzB,eSz].i!2i!uThq@">spielAktiv</field></block></value></block></value><statement name="DO0"><block type="device_print_message" id="a;jpRr=}vy7Kj{q/zkOL"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="text"><shadow type="text" id="p#^#9`jo|Zwp2zn2i~?7"><field name="TEXT">Goodbye World</field></shadow></value></block></statement></block></statement></block><block type="typescript_statement" id="#8pXDpj,@zy[,qNkBL_;" disabled="true" editable="false" x="1683" y="0"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="input.onButtonPressed(Button.A, function () {" line1="    korb.change(LedSpriteProperty.X, -1) // Bewegt den Korb nach links" line2="})" numlines="3"></mutation></block><block type="typescript_statement" id="haaGY(eM}A2P7eqwureQ" disabled="true" editable="false" x="-7" y="274"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="input.onButtonPressed(Button.B, function () {" line1="    korb.change(LedSpriteProperty.X, 1) // Bewegt den Korb nach rechts" line2="})" numlines="3"></mutation></block></xml>
